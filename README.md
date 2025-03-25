@@ -1,4 +1,6 @@
 # Tugas-1-Pemrograman-Perangkat-Bergerak
+
+## Hanya upload lib saja karena folder terlalu besar sizenya
 Repository Tugas Pemrograman Perangkat Bergerak
 
 Create a simple application (or clone clone from other project) that satisfies this requirement:
